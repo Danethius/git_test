@@ -1,2 +1,8 @@
 Hello world!
-first fucking code thing lets go
+The main commands in the Basic Git Workflow are as follows:
+1. type git status to show files that are modified and staged (not committed).
+2. type git add filename to add files to the staging area.
+    staged files are green in the staging area, modified files are red.
+3. type git commit --m "add filename" to commit the files 
+4. type git log to show a history of changes to your code. 
+changes
