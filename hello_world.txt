@@ -6,5 +6,7 @@ The main commands in the Basic Git Workflow are as follows:
 3. type git commit --m "add filename" to commit the files 
 4. type git log to show a history of changes to your code. 
 NOTE: You have to save you changes with cmd+S or another method before adding files to the staging area or they will just show as committed, not modified.
+To clone a respository you made on github to your local machine use the command git clone like this:
+git clone git@github.com:USER-NAME/REPOSITRY-NAME.git
 
 
